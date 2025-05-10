@@ -1,4 +1,5 @@
 🏅 Olympics Athletes SQL Project
+
 This project involves data exploration and analysis on a large Olympics dataset using MYSQL. The dataset contains over 200000 records about athletes, events, and medals from various Olympic games.
 
 📌 Project Overview
