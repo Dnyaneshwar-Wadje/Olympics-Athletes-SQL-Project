@@ -12,12 +12,30 @@ The aim of this project was to practice real-world data analysis using SQL. I wo
 
 📌Key Findings
 
-Medal Count: Analyzed total medal counts (Gold, Silver, Bronze, No Medal) for various countries and athletes.
+Total Medals: The data shows how many Gold, Silver, and Bronze medals were won in total across all Olympic Games.
 
-Top-Performing Countries: Identified countries with the highest medal counts, including year-wise and event-wise breakdowns.
+Different Sports: There are many different sports in the Olympics. The project found out how many unique sports were included.
 
-Athlete Performance: Analyzed the top-performing athletes, especially in sports like Cycling and Basketball, based on total medals won.
+India’s Medal Count: The analysis shows how many medals India has won, including the types of medals.
 
-Gender-Based Analysis: Provided a year-wise breakdown of medal counts by gender.
+India’s Best Events: Some events gave India more medals than others. These were listed from the highest to the lowest.
 
-Unique Sports: Listed and analyzed the unique sports featured in the Olympics and their medal distribution.
+India’s Year-wise Performance: The medals India won were broken down by each Olympic year, showing how the country has performed over time.
+
+Top Country Overall: The country with the most medals (Gold, Silver, and Bronze) was identified.
+
+Top 10 Countries by Gold Medals: A list of the 10 countries that won the most Gold medals was created.
+
+USA’s Best Year: The project found the year in which the United States won the most medals.
+
+USA’s Best Sport: The sport where the USA won the most medals was identified.
+
+Top 3 Athletes: The three athletes who won the most total medals were listed, along with their sport and country.
+
+Top Cyclist: The athlete who won the most Gold medals in Cycling was found, along with their country.
+
+Top Basketball Player: The player who won the most medals in Basketball was shown, along with their country.
+
+Basketball Medal Count: A breakdown of how many Gold, Silver, and Bronze medals that top Basketball player won.
+
+Medals by Gender and Year: The number of medals won by men and women was shown for each Olympic year.
