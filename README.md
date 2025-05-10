@@ -1,11 +1,13 @@
 🏅 Olympics Athletes SQL Project
 
-This project involves data exploration and analysis on a large Olympics dataset using MYSQL. The dataset contains over 200000 records about athletes, events, and medals from various Olympic games.
+  This project involves data exploration and analysis on a large Olympics dataset using MYSQL. The dataset contains over 200000 records about athletes, events, and medals from various Olympic games.
 
 📌 Project Overview
-The aim of this project was to practice real-world data analysis using SQL. I worked with a cleaned dataset of Olympic athletes to answer  analytical questions that provide insights into Olympic history, athlete performance, and country rankings.
+
+  The aim of this project was to practice real-world data analysis using SQL. I worked with a cleaned dataset of Olympic athletes to answer  analytical questions that provide insights into Olympic history, athlete performance, and country rankings.
 
 📌Objectives
+
 1.Importing a large CSV file into MySQL.
 2.Creating and loading tables with structured schema.
 3.Cleaning and preparing the data for analysis.
